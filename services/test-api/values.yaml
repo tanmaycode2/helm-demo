@@ -1,0 +1,10 @@
+appName: app-api
+replicaCount: 1
+
+image:
+  repository: 737185589565.dkr.ecr.ap-south-1.amazonaws.com/hello-world
+  tag: latest
+
+containerPort: 80
+
+servicePort: 8080 # Define the service port as needed
