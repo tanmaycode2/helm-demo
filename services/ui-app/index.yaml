@@ -3,7 +3,17 @@ entries:
   helm-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T12:03:12.7361444+05:30"
+    created: "2023-12-22T12:26:16.9129164+05:30"
+    description: A Helm chart for Kubernetes
+    digest: 7a145e6f9343e796e081902c313ab0cea44b0c9432dec0f2e49a4192c23b4cc2
+    name: helm-demo
+    type: application
+    urls:
+    - helm-demo-0.1.3.tgz
+    version: 0.1.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-22T12:26:16.8758201+05:30"
     description: A Helm chart for Kubernetes
     digest: 9c6d13269500e7486c4932447851ef425cf138f4d293da9de72a09bdcb7ea8fb
     name: helm-demo
@@ -13,7 +23,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T12:03:12.7307315+05:30"
+    created: "2023-12-22T12:26:16.8719435+05:30"
     description: A Helm chart for Kubernetes
     digest: 98783af3622e135eed2b72fbe1e0ccb61f6f6895837ea5dd98b0597642ea27db
     name: helm-demo
@@ -23,7 +33,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T12:03:12.7268999+05:30"
+    created: "2023-12-22T12:26:16.8688268+05:30"
     description: A Helm chart for Kubernetes
     digest: 2319088b932647b02692072b01481b9e6adc27b1bccb1f11f477502334166f1d
     name: helm-demo
@@ -31,4 +41,4 @@ entries:
     urls:
     - helm-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-22T12:03:12.7257871+05:30"
+generated: "2023-12-22T12:26:16.868208+05:30"
