@@ -3,7 +3,17 @@ entries:
   helm-demo:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T13:43:01.7576053+05:30"
+    created: "2023-12-22T14:05:00.0257298+05:30"
+    description: A Helm chart for Kubernetes
+    digest: b7cd38d26637eca1b01b5ff8047a353ab4ffc6a43bf6f5f22405d60e2668ac90
+    name: helm-demo
+    type: application
+    urls:
+    - helm-demo-0.1.5.tgz
+    version: 0.1.5
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-12-22T14:04:59.7933303+05:30"
     description: A Helm chart for Kubernetes
     digest: fabb3598d1ebd64d9510d3ee14c902bcaa224fae0639e2c233e44cd13586e442
     name: helm-demo
@@ -13,7 +23,7 @@ entries:
     version: 0.1.4
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T13:43:01.7120853+05:30"
+    created: "2023-12-22T14:04:59.7429585+05:30"
     description: A Helm chart for Kubernetes
     digest: 7a145e6f9343e796e081902c313ab0cea44b0c9432dec0f2e49a4192c23b4cc2
     name: helm-demo
@@ -23,7 +33,7 @@ entries:
     version: 0.1.3
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T13:43:01.7006345+05:30"
+    created: "2023-12-22T14:04:59.7279165+05:30"
     description: A Helm chart for Kubernetes
     digest: 9c6d13269500e7486c4932447851ef425cf138f4d293da9de72a09bdcb7ea8fb
     name: helm-demo
@@ -33,7 +43,7 @@ entries:
     version: 0.1.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T13:43:01.6965363+05:30"
+    created: "2023-12-22T14:04:59.7256851+05:30"
     description: A Helm chart for Kubernetes
     digest: 98783af3622e135eed2b72fbe1e0ccb61f6f6895837ea5dd98b0597642ea27db
     name: helm-demo
@@ -43,7 +53,7 @@ entries:
     version: 0.1.1
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-12-22T13:43:01.6951685+05:30"
+    created: "2023-12-22T14:04:59.7240353+05:30"
     description: A Helm chart for Kubernetes
     digest: 7c0cdd2edb393400c22b49a854df235f46c45a0c1cf1447afd3e2c6f6568eec1
     name: helm-demo
@@ -51,4 +61,4 @@ entries:
     urls:
     - helm-demo-0.1.0.tgz
     version: 0.1.0
-generated: "2023-12-22T13:43:01.6934229+05:30"
+generated: "2023-12-22T14:04:59.7222017+05:30"
